@@ -1,11 +1,14 @@
 ---
-title: "about"
-published: 2026-06-25
-edited: 2026-08-01
+title: "About"
+published: "2026-06-25"
+edited: "2026-08-01"
+description: "自己紹介など"
+
+layout: ../layouts/Layout.astro
 ---
 
-# About
-興味: 宇宙物理
+## 興味
+宇宙物理 など
 
 ## 所属等
 - 東京大学　理科一類　B1
@@ -13,6 +16,8 @@ edited: 2026-08-01
 ## 経歴
 
 ## 実績
+
+### 高校生
 - 第20回全国物理コンテスト 物理チャレンジ ([JPhO2024](https://www.jpho.jp/challenge/challenge2024/)): 銀賞
 - 第17回日本地学オリンピック (JESO) 銅賞
 - 第25回アジア物理オリンピック　サウジアラビア大会 ([APhO2025](https://www.apho2025.sa/)): Silver Medal
